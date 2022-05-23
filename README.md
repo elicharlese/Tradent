@@ -6,7 +6,7 @@ Welcome to the Wave Pro repo. This is the private repo for Wave Issues, Support,
 
 ## 📜 Guidelines
 
-When subitting an issue or creating a new discussion please be as descriptive as possible (include a screenshot or a screencast). The better you explain your issue or recommendation the quicker we can all work together to improve or implement features.
+When submitting an issue or creating a new discussion please be as descriptive as possible (include a screenshot or a screencast). The better you explain your issue or recommendation the quicker we can all work together to improve or implement features.
 
 ## ✅ Do
 
